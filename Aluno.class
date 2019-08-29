@@ -1,0 +1,23 @@
+public class Aluno{
+
+	String nome;
+	String idade;
+
+		public void inserir(){
+		
+		
+			Aluno aluno = new Aluno();
+			aluno.setNome("João Vitor Silva")
+			aluno.setIdade(16)
+		
+		
+		
+		
+	}
+
+	public void setNome (String nome){
+		this.nome = nome;
+	}
+
+
+}
