@@ -7,7 +7,7 @@ public class Aluno{
 		
 		
 			Aluno aluno = new Aluno();
-			aluno.setNome("João Vitor Silva")
+			aluno.setNome("João Vitor Silva de Oliveira")
 			aluno.setIdade(16)
 		
 		
@@ -19,5 +19,6 @@ public class Aluno{
 		this.nome = nome;
 	}
 
+	Então tá
 
 }
